@@ -19,6 +19,7 @@ Tools & Techniques
 Python · PyTorch · deep learning (MLP, CNN, LSTM, GRU, Transformer) · attention / cross-attention · protein language model embeddings (ESM-2) · model benchmarking & evaluation (AUROC)
 
 What I learned
+
 Building and fairly benchmarking multiple deep learning architectures under one pipeline.
 Designing a custom attention-based architecture motivated by the structure of the problem.
 End-to-end ML workflow: data preparation, training, evaluation, and interpreting results.
